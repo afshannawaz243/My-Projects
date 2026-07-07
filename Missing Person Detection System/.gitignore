@@ -1,0 +1,22 @@
+# Visual Studio Build and Cache Artifacts
+Debug/
+Release/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+
+# User-specific project settings
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+
+# Hidden OS files
+Thumbs.db
+.DS_Store
+
+# Saved database text files generated at runtime
+*.txt
+*.dat
